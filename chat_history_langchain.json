@@ -1,0 +1,73 @@
+[
+    {
+        "query": "so which all documents did you fetch",
+        "response": "I have fetched the solutions for a balanced mesh-connected load on a 3-phase, 230 V supply and for three similar coils connected in star and delta to a 3-phase, 400 V, 50 Hz supply.",
+        "feedback": "bad",
+        "sources": [
+            "data/Unit-7.pdf"
+        ],
+        "timestamp": "2026-01-10 14:55:32"
+    },
+    {
+        "query": "so what are star and delta connections",
+        "response": "Star and Delta connections refer to two methods for connecting three-phase electrical loads or sources. In a star connection, each phase winding is connected to a neutral point, while in a delta connection, the phases are connected in a closed loop, forming a triangle (delta shape).",
+        "feedback": "good",
+        "sources": [
+            "data/Unit-7.pdf"
+        ],
+        "timestamp": "2026-01-10 14:56:27"
+    },
+    {
+        "query": "give me the summary of the file contents",
+        "response": "The file contains information about a three-phase system, where the phase voltages have the same magnitude and frequency but are displaced by 120 degrees. The order in which they reach their positive maximum value is known as phase sequence. Additionally, it's mentioned that the line voltage can be calculated based on the equal length of the parallelogram sides and a 60-degree angle between two phase voltages.",
+        "feedback": "bad",
+        "sources": [
+            "data/Unit-7.pdf"
+        ],
+        "timestamp": "2026-01-10 14:56:53"
+    },
+    {
+        "query": "so what all documents did you fetch",
+        "response": "Not found in documentation.",
+        "feedback": "bad",
+        "sources": [],
+        "timestamp": "2026-01-11 02:34:27"
+    },
+    {
+        "query": "so what was the content in the document",
+        "response": "Not found in documentation.",
+        "feedback": "bad",
+        "sources": [],
+        "timestamp": "2026-01-11 02:34:41"
+    },
+    {
+        "query": "so what all documents did youo fetch",
+        "response": "Not found in documentation.",
+        "feedback": "bad",
+        "timestamp": "2026-01-11 02:40:21"
+    },
+    {
+        "query": "what is present in the file uploaded",
+        "response": "Not found in documentation.",
+        "feedback": "bad",
+        "timestamp": "2026-01-11 02:40:35"
+    },
+    {
+        "query": "what are star and delta connections",
+        "response": "Not found in documentation.",
+        "feedback": "bad",
+        "timestamp": "2026-01-11 02:40:51"
+    },
+    {
+        "query": "so what all files did you fetch",
+        "response": "The following documents are loaded:\n• Unit-7.pdf",
+        "feedback": "good",
+        "timestamp": "2026-01-11 02:56:31"
+    },
+    {
+        "query": "what were the contents in it",
+        "response": "Not found in documentation.",
+        "feedback": "bad",
+        "timestamp": "2026-01-11 02:56:53"
+    }
+]
